@@ -1,0 +1,6 @@
+# Personal Data (Privacy)
+entries.txt
+
+# Python Caches
+__pycache__/
+*.py[cod]
